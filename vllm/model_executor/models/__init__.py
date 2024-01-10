@@ -25,6 +25,7 @@ _MODELS = {
     "GPTNeoXForCausalLM": ("gpt_neox", "GPTNeoXForCausalLM"),
     "InternLMForCausalLM": ("internlm", "InternLMForCausalLM"),
     "LlamaForCausalLM": ("llama", "LlamaForCausalLM"),
+    "StableLMEpochForCausalLM": ("stablelm", "StableLMEpochForCausalLM"),
     # For decapoda-research/llama-*
     "LLaMAForCausalLM": ("llama", "LlamaForCausalLM"),
     "MistralForCausalLM": ("mistral", "MistralForCausalLM"),
